@@ -1,0 +1,16 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+#aboutus{
+    background-image: url("Risk\ Immunty.png");
+}
+
+#games{
+    background-image: url("Games.png");
+}
+
+body{
+    background-color:cornflowerblue;
+}
